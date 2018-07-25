@@ -1,6 +1,7 @@
 svg {
   fill: none;
   stroke: black;
+  display: none;
 }
 
 h1 {
